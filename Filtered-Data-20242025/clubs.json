@@ -6,64 +6,16 @@
         "url": "https://www.transfermarkt.co.uk/as-rom/startseite/verein/12"
     },
     {
-        "club_id": "148",
-        "club_code": "tottenham-hotspur",
-        "name": "Tottenham Hotspur Football Club",
-        "url": "https://www.transfermarkt.co.uk/tottenham-hotspur/startseite/verein/148"
-    },
-    {
-        "club_id": "269",
-        "club_code": "holstein-kiel",
-        "name": "Kieler Sportvereinigung Holstein von 1900",
-        "url": "https://www.transfermarkt.co.uk/holstein-kiel/startseite/verein/269"
-    },
-    {
-        "club_id": "969",
-        "club_code": "montpellier-hsc",
-        "name": "Montpellier Hérault Sport Club",
-        "url": "https://www.transfermarkt.co.uk/montpellier-hsc/startseite/verein/969"
-    },
-    {
-        "club_id": "989",
-        "club_code": "afc-bournemouth",
-        "name": "Association Football Club Bournemouth",
-        "url": "https://www.transfermarkt.co.uk/afc-bournemouth/startseite/verein/989"
-    },
-    {
-        "club_id": "1025",
-        "club_code": "fc-bologna",
-        "name": "Bologna Football Club 1909",
-        "url": "https://www.transfermarkt.co.uk/fc-bologna/startseite/verein/1025"
-    },
-    {
-        "club_id": "1082",
-        "club_code": "losc-lille",
-        "name": "Lille Olympique Sporting Club Lille Métropole",
-        "url": "https://www.transfermarkt.co.uk/losc-lille/startseite/verein/1082"
+        "club_id": "124",
+        "club_code": "glasgow-rangers",
+        "name": "Rangers Football Club",
+        "url": "https://www.transfermarkt.co.uk/glasgow-rangers/startseite/verein/124"
     },
     {
         "club_id": "31",
         "club_code": "fc-liverpool",
         "name": "Liverpool Football Club",
         "url": "https://www.transfermarkt.co.uk/fc-liverpool/startseite/verein/31"
-    },
-    {
-        "club_id": "3911",
-        "club_code": "stade-brest-29",
-        "name": "Stade brestois 29",
-        "url": "https://www.transfermarkt.co.uk/stade-brest-29/startseite/verein/3911"
-    },
-    {
-        "club_id": "410",
-        "club_code": "udinese-calcio",
-        "name": "Udinese Calcio",
-        "url": "https://www.transfermarkt.co.uk/udinese-calcio/startseite/verein/410"
-    },
-    {
-        "club_id": "1108",
-        "club_code": "deportivo-alaves",
-        "name": "Deportivo Alavés S.A.D.",
-        "url": "https://www.transfermarkt.co.uk/deportivo-alaves/startseite/verein/1108"
     },
     {
         "club_id": "13",
@@ -78,58 +30,10 @@
         "url": "https://www.transfermarkt.co.uk/fc-barcelona/startseite/verein/131"
     },
     {
-        "club_id": "18",
-        "club_code": "borussia-monchengladbach",
-        "name": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
-        "url": "https://www.transfermarkt.co.uk/borussia-monchengladbach/startseite/verein/18"
-    },
-    {
-        "club_id": "2036",
-        "club_code": "1-fc-heidenheim-1846",
-        "name": "1. Fußballclub Heidenheim 1846",
-        "url": "https://www.transfermarkt.co.uk/1-fc-heidenheim-1846/startseite/verein/2036"
-    },
-    {
-        "club_id": "273",
-        "club_code": "fc-stade-rennes",
-        "name": "Stade Rennais Football Club",
-        "url": "https://www.transfermarkt.co.uk/fc-stade-rennes/startseite/verein/273"
-    },
-    {
-        "club_id": "366",
-        "club_code": "real-valladolid",
-        "name": "Real Valladolid Club de Fútbol S.A.D.",
-        "url": "https://www.transfermarkt.co.uk/real-valladolid/startseite/verein/366"
-    },
-    {
         "club_id": "46",
         "club_code": "inter-mailand",
         "name": "Football Club Internazionale Milano S.p.A.",
         "url": "https://www.transfermarkt.co.uk/inter-mailand/startseite/verein/46"
-    },
-    {
-        "club_id": "995",
-        "club_code": "fc-nantes",
-        "name": "Football Club de Nantes",
-        "url": "https://www.transfermarkt.co.uk/fc-nantes/startseite/verein/995"
-    },
-    {
-        "club_id": "1003",
-        "club_code": "leicester-city",
-        "name": "Leicester City Football Club",
-        "url": "https://www.transfermarkt.co.uk/leicester-city/startseite/verein/1003"
-    },
-    {
-        "club_id": "1047",
-        "club_code": "como-1907",
-        "name": "Calcio Como",
-        "url": "https://www.transfermarkt.co.uk/como-1907/startseite/verein/1047"
-    },
-    {
-        "club_id": "1237",
-        "club_code": "brighton-amp-hove-albion",
-        "name": "Brighton and Hove Albion Football Club",
-        "url": "https://www.transfermarkt.co.uk/brighton-amp-hove-albion/startseite/verein/1237"
     },
     {
         "club_id": "6195",
@@ -138,22 +42,10 @@
         "url": "https://www.transfermarkt.co.uk/ssc-neapel/startseite/verein/6195"
     },
     {
-        "club_id": "82",
-        "club_code": "vfl-wolfsburg",
-        "name": "Verein für Leibesübungen Wolfsburg",
-        "url": "https://www.transfermarkt.co.uk/vfl-wolfsburg/startseite/verein/82"
-    },
-    {
         "club_id": "1050",
         "club_code": "fc-villarreal",
         "name": "Villarreal Club de Fútbol S.A.D.",
         "url": "https://www.transfermarkt.co.uk/fc-villarreal/startseite/verein/1050"
-    },
-    {
-        "club_id": "130",
-        "club_code": "parma-calcio-1913",
-        "name": "Parma Calcio 1913",
-        "url": "https://www.transfermarkt.co.uk/parma-calcio-1913/startseite/verein/130"
     },
     {
         "club_id": "15",
@@ -162,70 +54,22 @@
         "url": "https://www.transfermarkt.co.uk/bayer-04-leverkusen/startseite/verein/15"
     },
     {
-        "club_id": "276",
-        "club_code": "hellas-verona",
-        "name": "Verona Hellas Football Club",
-        "url": "https://www.transfermarkt.co.uk/hellas-verona/startseite/verein/276"
+        "club_id": "294",
+        "club_code": "benfica-lissabon",
+        "name": "Sport Lisboa e Benfica",
+        "url": "https://www.transfermarkt.co.uk/benfica-lissabon/startseite/verein/294"
     },
     {
-        "club_id": "703",
-        "club_code": "nottingham-forest",
-        "name": "Nottingham Forest Football Club",
-        "url": "https://www.transfermarkt.co.uk/nottingham-forest/startseite/verein/703"
+        "club_id": "383",
+        "club_code": "psv-eindhoven",
+        "name": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+        "url": "https://www.transfermarkt.co.uk/psv-eindhoven/startseite/verein/383"
     },
     {
-        "club_id": "80",
-        "club_code": "vfl-bochum",
-        "name": "Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft",
-        "url": "https://www.transfermarkt.co.uk/vfl-bochum/startseite/verein/80"
-    },
-    {
-        "club_id": "1421",
-        "club_code": "stade-reims",
-        "name": "Stade de Reims",
-        "url": "https://www.transfermarkt.co.uk/stade-reims/startseite/verein/1421"
-    },
-    {
-        "club_id": "162",
-        "club_code": "as-monaco",
-        "name": "Association sportive de Monaco Football Club",
-        "url": "https://www.transfermarkt.co.uk/as-monaco/startseite/verein/162"
-    },
-    {
-        "club_id": "24",
-        "club_code": "eintracht-frankfurt",
-        "name": "Eintracht Frankfurt Fußball AG",
-        "url": "https://www.transfermarkt.co.uk/eintracht-frankfurt/startseite/verein/24"
-    },
-    {
-        "club_id": "331",
-        "club_code": "ca-osasuna",
-        "name": "Club Atlético Osasuna",
-        "url": "https://www.transfermarkt.co.uk/ca-osasuna/startseite/verein/331"
-    },
-    {
-        "club_id": "3709",
-        "club_code": "fc-getafe",
-        "name": "Getafe Club de Fútbol S.A.D. Team Dubai",
-        "url": "https://www.transfermarkt.co.uk/fc-getafe/startseite/verein/3709"
-    },
-    {
-        "club_id": "762",
-        "club_code": "newcastle-united",
-        "name": "Newcastle United Football Club",
-        "url": "https://www.transfermarkt.co.uk/newcastle-united/startseite/verein/762"
-    },
-    {
-        "club_id": "1041",
-        "club_code": "olympique-lyon",
-        "name": "Olympique Lyonnais",
-        "url": "https://www.transfermarkt.co.uk/olympique-lyon/startseite/verein/1041"
-    },
-    {
-        "club_id": "1148",
-        "club_code": "fc-brentford",
-        "name": "Brentford Football Club",
-        "url": "https://www.transfermarkt.co.uk/fc-brentford/startseite/verein/1148"
+        "club_id": "610",
+        "club_code": "ajax-amsterdam",
+        "name": "AFC Ajax Amsterdam",
+        "url": "https://www.transfermarkt.co.uk/ajax-amsterdam/startseite/verein/610"
     },
     {
         "club_id": "16",
@@ -234,76 +78,16 @@
         "url": "https://www.transfermarkt.co.uk/borussia-dortmund/startseite/verein/16"
     },
     {
-        "club_id": "237",
-        "club_code": "rcd-mallorca",
-        "name": "Real Club Deportivo Mallorca S.A.D.",
-        "url": "https://www.transfermarkt.co.uk/rcd-mallorca/startseite/verein/237"
-    },
-    {
-        "club_id": "35",
-        "club_code": "fc-st-pauli",
-        "name": "Fußball-Club St. Pauli von 1910",
-        "url": "https://www.transfermarkt.co.uk/fc-st-pauli/startseite/verein/35"
-    },
-    {
-        "club_id": "667",
-        "club_code": "rc-strassburg-alsace",
-        "name": "Racing Club de Strasbourg Alsace",
-        "url": "https://www.transfermarkt.co.uk/rc-strassburg-alsace/startseite/verein/667"
-    },
-    {
-        "club_id": "681",
-        "club_code": "real-sociedad-san-sebastian",
-        "name": "Real Sociedad de Fútbol S.A.D.",
-        "url": "https://www.transfermarkt.co.uk/real-sociedad-san-sebastian/startseite/verein/681"
-    },
-    {
-        "club_id": "873",
-        "club_code": "crystal-palace",
-        "name": "Crystal Palace Football Club",
-        "url": "https://www.transfermarkt.co.uk/crystal-palace/startseite/verein/873"
-    },
-    {
-        "club_id": "1244",
-        "club_code": "cd-leganes",
-        "name": "Club Deportivo Leganés S.A.D.",
-        "url": "https://www.transfermarkt.co.uk/cd-leganes/startseite/verein/1244"
-    },
-    {
-        "club_id": "244",
-        "club_code": "olympique-marseille",
-        "name": "Olympique de Marseille",
-        "url": "https://www.transfermarkt.co.uk/olympique-marseille/startseite/verein/244"
-    },
-    {
-        "club_id": "367",
-        "club_code": "rayo-vallecano",
-        "name": "Rayo Vallecano de Madrid S.A.D.",
-        "url": "https://www.transfermarkt.co.uk/rayo-vallecano/startseite/verein/367"
-    },
-    {
         "club_id": "379",
         "club_code": "west-ham-united",
         "name": "West Ham United Football Club",
         "url": "https://www.transfermarkt.co.uk/west-ham-united/startseite/verein/379"
     },
     {
-        "club_id": "79",
-        "club_code": "vfb-stuttgart",
-        "name": "Verein für Bewegungsspiele Stuttgart 1893",
-        "url": "https://www.transfermarkt.co.uk/vfb-stuttgart/startseite/verein/79"
-    },
-    {
-        "club_id": "86",
-        "club_code": "sv-werder-bremen",
-        "name": "Sportverein Werder Bremen von 1899",
-        "url": "https://www.transfermarkt.co.uk/sv-werder-bremen/startseite/verein/86"
-    },
-    {
-        "club_id": "931",
-        "club_code": "fc-fulham",
-        "name": "Fulham Football Club",
-        "url": "https://www.transfermarkt.co.uk/fc-fulham/startseite/verein/931"
+        "club_id": "2282",
+        "club_code": "fc-brugge",
+        "name": "Club Brugge Koninklijke Voetbalvereniging",
+        "url": "https://www.transfermarkt.co.uk/fc-brugge/startseite/verein/2282"
     },
     {
         "club_id": "583",
@@ -312,28 +96,10 @@
         "url": "https://www.transfermarkt.co.uk/fc-paris-saint-germain/startseite/verein/583"
     },
     {
-        "club_id": "621",
-        "club_code": "athletic-bilbao",
-        "name": "Athletic Club Bilbao",
-        "url": "https://www.transfermarkt.co.uk/athletic-bilbao/startseite/verein/621"
-    },
-    {
-        "club_id": "677",
-        "club_code": "ipswich-town",
-        "name": "Ipswich Town Football Club",
-        "url": "https://www.transfermarkt.co.uk/ipswich-town/startseite/verein/677"
-    },
-    {
         "club_id": "985",
         "club_code": "manchester-united",
         "name": "Manchester United Football Club",
         "url": "https://www.transfermarkt.co.uk/manchester-united/startseite/verein/985"
-    },
-    {
-        "club_id": "150",
-        "club_code": "real-betis-sevilla",
-        "name": "Real Betis Balompié S.A.D.",
-        "url": "https://www.transfermarkt.co.uk/real-betis-sevilla/startseite/verein/150"
     },
     {
         "club_id": "506",
@@ -342,28 +108,10 @@
         "url": "https://www.transfermarkt.co.uk/juventus-turin/startseite/verein/506"
     },
     {
-        "club_id": "618",
-        "club_code": "as-saint-etienne",
-        "name": "Association sportive de Saint-Étienne Loire",
-        "url": "https://www.transfermarkt.co.uk/as-saint-etienne/startseite/verein/618"
-    },
-    {
-        "club_id": "1420",
-        "club_code": "sco-angers",
-        "name": "Angers Sporting Club de l'Ouest",
-        "url": "https://www.transfermarkt.co.uk/sco-angers/startseite/verein/1420"
-    },
-    {
         "club_id": "23826",
         "club_code": "rasenballsport-leipzig",
         "name": "RasenBallsport Leipzig",
         "url": "https://www.transfermarkt.co.uk/rasenballsport-leipzig/startseite/verein/23826"
-    },
-    {
-        "club_id": "2919",
-        "club_code": "ac-monza",
-        "name": "Associazione Calcio Monza",
-        "url": "https://www.transfermarkt.co.uk/ac-monza/startseite/verein/2919"
     },
     {
         "club_id": "398",
@@ -378,40 +126,10 @@
         "url": "https://www.transfermarkt.co.uk/real-madrid/startseite/verein/418"
     },
     {
-        "club_id": "738",
-        "club_code": "ac-le-havre",
-        "name": "Le Havre Athletic Club",
-        "url": "https://www.transfermarkt.co.uk/ac-le-havre/startseite/verein/738"
-    },
-    {
-        "club_id": "89",
-        "club_code": "1-fc-union-berlin",
-        "name": "1. FC Union Berlin",
-        "url": "https://www.transfermarkt.co.uk/1-fc-union-berlin/startseite/verein/89"
-    },
-    {
-        "club_id": "940",
-        "club_code": "celta-vigo",
-        "name": "Real Club Celta de Vigo S. A. D.",
-        "url": "https://www.transfermarkt.co.uk/celta-vigo/startseite/verein/940"
-    },
-    {
-        "club_id": "1390",
-        "club_code": "cagliari-calcio",
-        "name": "Cagliari Calcio",
-        "url": "https://www.transfermarkt.co.uk/cagliari-calcio/startseite/verein/1390"
-    },
-    {
-        "club_id": "167",
-        "club_code": "fc-augsburg",
-        "name": "FC Augsburg 1907",
-        "url": "https://www.transfermarkt.co.uk/fc-augsburg/startseite/verein/167"
-    },
-    {
-        "club_id": "430",
-        "club_code": "ac-florenz",
-        "name": "Associazione Calcio Fiorentina",
-        "url": "https://www.transfermarkt.co.uk/ac-florenz/startseite/verein/430"
+        "club_id": "720",
+        "club_code": "fc-porto",
+        "name": "Futebol Clube do Porto",
+        "url": "https://www.transfermarkt.co.uk/fc-porto/startseite/verein/720"
     },
     {
         "club_id": "5",
@@ -420,22 +138,10 @@
         "url": "https://www.transfermarkt.co.uk/ac-mailand/startseite/verein/5"
     },
     {
-        "club_id": "826",
-        "club_code": "rc-lens",
-        "name": "Racing Club de Lens",
-        "url": "https://www.transfermarkt.co.uk/rc-lens/startseite/verein/826"
-    },
-    {
         "club_id": "11",
         "club_code": "fc-arsenal",
         "name": "Arsenal Football Club",
         "url": "https://www.transfermarkt.co.uk/fc-arsenal/startseite/verein/11"
-    },
-    {
-        "club_id": "252",
-        "club_code": "genua-cfc",
-        "name": "Genoa Cricket and Football Club",
-        "url": "https://www.transfermarkt.co.uk/genua-cfc/startseite/verein/252"
     },
     {
         "club_id": "281",
@@ -444,58 +150,10 @@
         "url": "https://www.transfermarkt.co.uk/manchester-city/startseite/verein/281"
     },
     {
-        "club_id": "39",
-        "club_code": "1-fsv-mainz-05",
-        "name": "1. Fußball- und Sportverein Mainz 05",
-        "url": "https://www.transfermarkt.co.uk/1-fsv-mainz-05/startseite/verein/39"
-    },
-    {
-        "club_id": "405",
-        "club_code": "aston-villa",
-        "name": "Aston Villa Football Club",
-        "url": "https://www.transfermarkt.co.uk/aston-villa/startseite/verein/405"
-    },
-    {
-        "club_id": "543",
-        "club_code": "wolverhampton-wanderers",
-        "name": "Wolverhampton Wanderers Football Club",
-        "url": "https://www.transfermarkt.co.uk/wolverhampton-wanderers/startseite/verein/543"
-    },
-    {
-        "club_id": "60",
-        "club_code": "sc-freiburg",
-        "name": "Sport-Club Freiburg",
-        "url": "https://www.transfermarkt.co.uk/sc-freiburg/startseite/verein/60"
-    },
-    {
-        "club_id": "714",
-        "club_code": "espanyol-barcelona",
-        "name": "Reial Club Deportiu Espanyol de Barcelona S.A.D.",
-        "url": "https://www.transfermarkt.co.uk/espanyol-barcelona/startseite/verein/714"
-    },
-    {
-        "club_id": "12321",
-        "club_code": "fc-girona",
-        "name": "Girona Fútbol Club S. A. D.",
-        "url": "https://www.transfermarkt.co.uk/fc-girona/startseite/verein/12321"
-    },
-    {
-        "club_id": "472",
-        "club_code": "ud-las-palmas",
-        "name": "Unión Deportiva Las Palmas S.A.D.",
-        "url": "https://www.transfermarkt.co.uk/ud-las-palmas/startseite/verein/472"
-    },
-    {
-        "club_id": "1005",
-        "club_code": "us-lecce",
-        "name": "Unione Sportiva Lecce",
-        "url": "https://www.transfermarkt.co.uk/us-lecce/startseite/verein/1005"
-    },
-    {
-        "club_id": "180",
-        "club_code": "fc-southampton",
-        "name": "Southampton Football Club",
-        "url": "https://www.transfermarkt.co.uk/fc-southampton/startseite/verein/180"
+        "club_id": "234",
+        "club_code": "feyenoord-rotterdam",
+        "name": "Feyenoord Rotterdam",
+        "url": "https://www.transfermarkt.co.uk/feyenoord-rotterdam/startseite/verein/234"
     },
     {
         "club_id": "368",
@@ -504,70 +162,16 @@
         "url": "https://www.transfermarkt.co.uk/fc-sevilla/startseite/verein/368"
     },
     {
-        "club_id": "415",
-        "club_code": "fc-toulouse",
-        "name": "Toulouse Football Club",
-        "url": "https://www.transfermarkt.co.uk/fc-toulouse/startseite/verein/415"
-    },
-    {
-        "club_id": "416",
-        "club_code": "fc-turin",
-        "name": "Torino Calcio",
-        "url": "https://www.transfermarkt.co.uk/fc-turin/startseite/verein/416"
-    },
-    {
-        "club_id": "417",
-        "club_code": "ogc-nizza",
-        "name": "Olympique Gymnaste Club Nice Côte d'Azur",
-        "url": "https://www.transfermarkt.co.uk/ogc-nizza/startseite/verein/417"
-    },
-    {
         "club_id": "631",
         "club_code": "fc-chelsea",
         "name": "Chelsea Football Club",
         "url": "https://www.transfermarkt.co.uk/fc-chelsea/startseite/verein/631"
     },
     {
-        "club_id": "749",
-        "club_code": "fc-empoli",
-        "name": "Empoli Football Club S.r.l.",
-        "url": "https://www.transfermarkt.co.uk/fc-empoli/startseite/verein/749"
-    },
-    {
-        "club_id": "1049",
-        "club_code": "fc-valencia",
-        "name": "Valencia Club de Fútbol S. A. D.",
-        "url": "https://www.transfermarkt.co.uk/fc-valencia/startseite/verein/1049"
-    },
-    {
         "club_id": "27",
         "club_code": "fc-bayern-munchen",
         "name": "FC Bayern München",
         "url": "https://www.transfermarkt.co.uk/fc-bayern-munchen/startseite/verein/27"
-    },
-    {
-        "club_id": "29",
-        "club_code": "fc-everton",
-        "name": "Everton Football Club",
-        "url": "https://www.transfermarkt.co.uk/fc-everton/startseite/verein/29"
-    },
-    {
-        "club_id": "290",
-        "club_code": "aj-auxerre",
-        "name": "Association de la Jeunesse auxerroise",
-        "url": "https://www.transfermarkt.co.uk/aj-auxerre/startseite/verein/290"
-    },
-    {
-        "club_id": "533",
-        "club_code": "tsg-1899-hoffenheim",
-        "name": "TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH",
-        "url": "https://www.transfermarkt.co.uk/tsg-1899-hoffenheim/startseite/verein/533"
-    },
-    {
-        "club_id": "607",
-        "club_code": "venezia-fc",
-        "name": "Venezia Football Club",
-        "url": "https://www.transfermarkt.co.uk/venezia-fc/startseite/verein/607"
     },
     {
         "club_id": "800",
