@@ -10,6 +10,7 @@ The dataset includes player stats, team information, and game results. The goal 
 The dataset is stored in JSON format in the Filtered-Data-20242025/ directory.
 ## Data URLs
 - [Players](https://stijngrie.github.io/FootballGrids-Data/Filtered-Data-20242025/players.json)
+- [Clubs](https://stijngrie.github.io/FootballGrids-Data/Filtered-Data-20242025/clubs.json)
 
 # Project Goals
 Create a comprehensive dataset for the Football Grids game
