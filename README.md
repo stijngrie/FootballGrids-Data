@@ -6,6 +6,7 @@ The dataset includes player stats, team information, and game results. The goal 
 
 # Data Sources
 - Transfermarkt
+
 The dataset is stored in JSON format in the Filtered-Data-20242025/ directory.
 
 # Project Goals
